@@ -1,6 +1,6 @@
-# "My_Portfolio"
+# My_Portfolio
 
-#This is my portfolio
-#This is my work
-#Ja sa Jakub Muratovic
-#Pokusavam da skontam  ovo
+This is my portfoli0
+This is my work
+Ja sa Jakub Muratovic
+Pokusavam da skontam  ovo
