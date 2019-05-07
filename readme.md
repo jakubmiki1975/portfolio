@@ -3,5 +3,4 @@ This is my portfolio
 
 ##This is my work
 
-FMTS
-Python
+###Ja sa Jakub Muratovic
